@@ -116,6 +116,7 @@ DELETE /listas/{id}
 ```json
 {
   "nome": "Compras do mês",
+  "dataCriacao": "2026-04-28",
   "mercadoId": 1
 }
 ```
